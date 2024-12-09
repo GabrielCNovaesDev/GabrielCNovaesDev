@@ -1,10 +1,17 @@
-
 ### Olá! Me chamo Gabriel Henrique 🖐
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielnovaesdev/)
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCNovaesDev&show_icons=true&theme=tokyonight&cache_seconds=86400)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCNovaesDev&show_icons=true&theme=tokyonight&cache_seconds=86400)]
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielCNovaesDev&show_icons=true&theme=tokyonight&card_width=400" alt="Gabriel's GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCNovaesDev&layout=compact&theme=tokyonight&card_width=400" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
 
 ## Tecnologias que eu uso no meu dia 
 
@@ -16,3 +23,4 @@
 </div><br/>
 
 Apaixonado por tecnologia, desafios e resolver problemas através da programação!
+
