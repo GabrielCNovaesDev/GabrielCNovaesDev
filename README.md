@@ -28,3 +28,5 @@
 
 Apaixonado por tecnologia, desafios e resolver problemas através da programação!
 
+![Snake animation](https://github.com/GabrielCNovaesDev/GabrielCNovaesDev/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GabrielCNovaesDev&repo=GabrielCNovaesDev&theme=react)](https://github.com/GabrielCNovaesDev/GabrielCNovaesDev)
