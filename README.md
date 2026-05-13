@@ -72,11 +72,6 @@ public class Gabriel {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCNovaesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCNovaesDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCNovaesDev&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -131,6 +126,3 @@ public class Gabriel {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielCNovaesDev&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
-</div>
