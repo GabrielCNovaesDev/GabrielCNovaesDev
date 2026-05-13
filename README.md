@@ -1,8 +1,3 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Gabriel%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=58&descAlign=50" width="100%"/>
-</div>
-
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://github.com/GabrielCNovaesDev">
@@ -25,7 +20,7 @@ public class Gabriel {
     private final List<String> focus = List.of("Spring Boot", "REST APIs", "PostgreSQL", "Docker");
 
     public String getCurrentMotto() {
-        return "Passionate about technology, designing, and solving problems through programming!";
+        return "Passionate about solving problems through programming!";
     }
 }
 ```
@@ -118,10 +113,10 @@ public class Gabriel {
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:gabrielhcnovaes@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/">
+  <a href="https://www.linkedin.com/in/gabrielhcnovaes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/GabrielCNovaesDev">
