@@ -1,7 +1,7 @@
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://github.com/GabrielCNovaesDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello!+My+name+is+Gabriel+Henrique+%F0%9F%96%90;Backend+Developer+%7C+Java+%26+Spring+Boot;Passionate+about+solving+problems+through+code;Building+scalable+APIs+%26+robust+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello!+My+name+is+Gabriel+Henrique+%F0%9F%96%90;Backend+Developer+%7C+Java+%26+Spring+Boot;Solving+problems+through+code;Building+scalable+APIs+%26+robust+systems" alt="Typing SVG" />
   </a>
 </div>
 
