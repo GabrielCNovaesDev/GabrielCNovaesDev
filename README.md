@@ -12,7 +12,7 @@
 
 ```java
 @Component
-public class Gabriel {
+public class Gabriel  {
 
     private final String role = "Backend Developer";
     private final String location = "Aracaju, SE - Brazil";
