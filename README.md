@@ -1,4 +1,4 @@
- <!-- TYPING SVG -->
+<!-- TYPING SVG -->
 <div align="center">
   <a href="https://github.com/GabrielCNovaesDev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello!+My+name+is+Gabriel+Henrique+%F0%9F%96%90;Backend+Developer+%7C+Java+%26+Spring+Boot;Solving+problems+through+code;Building+scalable+APIs+%26+robust+systems" alt="Typing SVG" />
@@ -72,7 +72,14 @@ public class Gabriel  {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCNovaesDev&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCNovaesDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCNovaesDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=GabrielCNovaesDev&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
@@ -125,4 +132,3 @@ public class Gabriel  {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 </div>
-
